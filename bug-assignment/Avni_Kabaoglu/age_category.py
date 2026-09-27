@@ -13,4 +13,4 @@ while True:
         print("Adult")
     else:
         print("Senior" + age)
-print("Goodbye!"
+print("Goodbye!")
